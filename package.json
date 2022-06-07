@@ -1,5 +1,5 @@
 {
-  "name": "create-library",
+  "name": "create-ak-library",
   "version": "1.0.2",
   "description": "Application shows how to publish a npm package both in es5, es6 support at the same time.",
   "type": "module",
